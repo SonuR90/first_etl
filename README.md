@@ -29,7 +29,9 @@ It is optimized for maintainability and clarity.
 | logger.py        | (Optional) Centralized logger                  |
 | config.ini       | Stores AWS and email credentials               |
 | README.md        | Project documentation                          |
-
+| .gitignore       | Prevents committing secrets, pycache, etc.     |
+| requirements.txt | Python dependencies                            |
+| mysql_connector.py | MySQL connection handler                     |
 
 ## Prerequisites
 
